@@ -36,3 +36,7 @@
 - [Introduction to Angular](https://angular.dev/)
 - [Angular routing overview](https://angular.dev/guide/routing)
 - [Binding in Angular](https://angular.dev/guide/templates/binding)
+
+### Deploy Repo
+
+- [Deploy Repo](https://github.com/borisovski-borche/thought-exchange-gen12-deploy)
